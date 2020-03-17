@@ -1,4 +1,4 @@
-// link do gry: https://websamuraj.pl/examples/js/gra/ 
+
 class Game {
     constructor() {
         this.stats = new Statistic
